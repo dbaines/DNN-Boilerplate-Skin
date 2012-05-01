@@ -1,0 +1,16 @@
+/*===============================================================
+
+  All about the humans responsible for...
+  YOURSITE
+
+=============================================================== */
+
+/* CDAA TEAM */
+  Designer: 
+  Web Developer: 
+  Project Manager: 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: HTML5Boilerplate, Modernizr, jQuery, Selectivizr
+  Software: DotNetNuke, SublimeText 2, Photoshop

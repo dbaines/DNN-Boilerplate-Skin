@@ -1,0 +1,39 @@
+/* ============================================================================
+
+	Editor Overrides
+	
+============================================================================ */
+
+body,html {background: #fff;}
+body {padding: 8px; font-size: 13px; line-height: 1.231; background: #fff; color: #000; font-family: 'Open Sans', arial, helvetica, sans-serif;}
+
+.RadEditor ul li, .reDropDownBody ul li
+{list-style: none !important;}
+.RadEditor a, .reDropDownBody a
+{text-decoration: none !important;}
+div.RadWindow table.rwTitlebarControls ul.rwControlButtons li
+{list-style-type: none;}
+.RadEditor .InsertCustomLink, .RadEditor .FormatBlock {width:110px !important;}
+.reTool .InsertOptions
+{
+    background-image: url(../images/attachment.png);
+}
+
+/* Text formatting */
+ul {margin: 0; padding: 0 0 16px 0;}
+ol {margin: 0; padding: 0 0 16px 40px;}
+p {padding: 0 0 16px 0; margin: 0;}
+
+/* Headings */
+h1 {text-transform: uppercase; font-weight: normal; padding: 0 0 20px 0; margin: 0;}
+h2 {font-size: 150%; text-transform: uppercase; font-weight: normal; padding: 15px 0 20px 0; margin: 0;}
+h3 {font-size: 160%; font-weight: normal;}
+h5 {font-size: 100%; text-transform: uppercase; font-weight: normal; padding: 0 0 20px 0; margin: 0;}
+
+/* ============================================================================
+
+	Custom Classses for the "Apply CSS Class" drop-down 
+	
+============================================================================ */
+
+a.example {font-weight: bold;}

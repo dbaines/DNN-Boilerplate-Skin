@@ -1,0 +1,52 @@
+.CreateFrom{}
+.BlogDescriptionHeavy{}
+.BlogPublished{display:block;text-align:center;float:left;border-bottom:2px solid #CCC;border-left:1px solid #CCC;border-right:1px solid #CCC;border-top:1px solid #CCC;background:url(images/clip-bottom.png) right top no-repeat;width:2.5em;margin-right:5px;}
+.BlogPubMonth{display:block;color:#FFF;background:url(images/clip-top.png) center top repeat-x;text-transform:uppercase;margin:0;padding:1px 0 0;}
+.BlogPubDate{display:block;margin:0;padding:0;}
+.BlogPubYear{display:block;margin:0;padding:0;}
+.BlogComments{background-image:url(images/blog_comments.png);background-position:left;background-repeat:no-repeat;padding-left:20px;margin-right:10px;cursor:pointer;display:inline-block;height:1.5em;}
+.BlogCommentsNormal{background-image:url(images/blog_comments.png);background-repeat:no-repeat;padding-left:20px;margin-right:10px;cursor:pointer;}
+.BlogTopics{background-image:url(images/blog_topic.png);display:inline-block;}
+.BlogMoreLink{}
+.BlogGravatar{float:left;border:solid 1px #ddd;background-color:#fff;margin:5px 5px -5px 4px;padding:2px;}
+.BlogGravatarPreview{border:solid 1px #ddd;background-color:#fff;float:right;margin:0;padding:2px;}
+.BlogLeftTD{white-space:nowrap;vertical-align:top;padding-right:1em;}
+.BlogFooter{width:100%;display:block;border-bottom-width:1px;border-bottom-style:dotted;border-bottom-color:#AAA;padding-bottom:45px;}
+.BlogTags{background-image:url(images/blog_tag_blue.png);}
+.BlogFooterSub{padding-bottom:1ex;}
+.BlogFooterRight{text-align:right;}
+.BlogFooterRight a{display:inline-block;}
+.BlogTrackback{background-image:url(images/blog_trackback.png);background-repeat:no-repeat;padding-left:20px;}
+.BlogPermalink{background-image:url(images/blog_permalink.png);background-repeat:no-repeat;padding-left:20px;}
+.BlogPrint{background-image:url(images/blog_print.png);background-repeat:no-repeat;padding-left:20px;margin-left:8px;}
+.BlogEditLink{background-image:url(images/blog_edit_link.png);margin-left:8px;background-repeat:no-repeat;padding-left:20px;}
+.BlogTopics,.BlogPermalink{background-position:left;background-repeat:no-repeat;padding-left:20px;display:block;clear:both;float:none;}
+.BlogDate{color:#666;}
+h2.BlogTitle,div.BlogHead h2.BlogTitle,div.BlogHead h2.BlogTitle a,div.BlogHead h2.BlogTitle a:link,div.BlogHead h2.BlogTitle a:visited,div.BlogHead h2.BlogTitle a:active,div.BlogHead h2.BlogTitle a:hover{margin-bottom:3px;margin-top:15px;}
+h1,.HorizontalLine{border-bottom-width:1px;border-bottom-style:dotted;border-bottom-color:#AAA;}
+.BlogSubHead{position:relative;margin:0;padding:0 0 8px 42px;}
+.BlogSubHead .BlogComments{position:absolute;top:0;right:0;}
+.Clear{clear:both;}
+.BlogCopyright{}
+div.BlogBubble,div.BlogBubbleOwner{width:auto;margin-bottom:24px;}
+div.BlogBubble blockquote{border:1px solid #c9c2c1;background-color:#fff;zoom:1;min-height:64px;margin:0;padding:0;}
+div.BlogBubbleOwner blockquote{border:1px solid #aaa;background-color:#e0e0e0;zoom:1;min-height:64px;margin:0;padding:0;}
+div.BlogBubble blockquote p,div.BlogBubbleOwner blockquote p{margin:10px;padding:0;}
+div.BlogBubble cite,div.BlogBubbleOwner cite{position:relative;top:6px;background:transparent url(images/blog_comment_tip.gif) no-repeat 20px 0;margin:0;padding:7px 0 0 15px;}
+div.BlogBubbleOwner cite{background:transparent url(images/blog_comment_tip_owner.gif) no-repeat 20px 0;}
+.BlogArchiveDayHeader{background-color:#CDF;}
+.BlogArchiveDay{background-color:#fff;}
+.BlogArchiveDay a,.BlogArchiveSelectedDay a,.BlogArchiveWeekendDay a,.BlogArchiveTodayDay a{width:100%;}
+.BlogArchiveOtherMonth{background-color:#f4f4f4;}
+.BlogArchiveSelectedDay{border:1px solid #CCC;background-color:#FC0;}
+.BlogArchiveTitle{}
+.BlogArchiveTodayDay{border:1px solid #CCC;background-color:#FC0;}
+.BlogArchiveWeekendDay{background-color:#fffff0;}
+.BlogImageList{vertical-align:middle;}
+.BlogDateline{}
+div.BlogBubble p{color:#000;}
+span.tagMatches{margin-left:10px;}
+span.tagMatches span{margin-right:4px;background-color:#0000AB;color:#fff;cursor:pointer;padding:2px;}
+.BlogInfo,.BlogReadMore{padding-bottom:10px;}
+.SearchOptions,.BlogBody,.BlogDescription{}
+.BlogArchiveNextPrev,.BlogArchiveSelector{}

@@ -1,0 +1,14 @@
+.scrHeader {text-align:right;}
+.scrTitle {margin-bottom:0;padding-bottom:0;}
+.scrTitle a, .scrTitle a:link, .scrTitle a:visited {}
+.scrTitle a:active {}
+.scrResults ol, .scrPaging ol, .scrResults li, .scrPaging li{list-style:none;padding:0;margin:0;}
+.scrPaging li{display:inline;}
+.scrItem {margin-bottom: 20px;}
+.scrThumbnail {margin-top: 5px;margin-bottom: 5px;}
+.scrExcerpt, .scrRelevance {font-size: 0.9em;line-height: 1.3em;padding-bottom:0;margin-bottom:0;}
+.scrPath {line-height: 1.231;font-size: 0.9em;}
+.scrPaging{height: 2em;margin: 0;text-align: center;width: 100%;line-height: 1.231;}
+a.scrPage{border: 1px solid #ccc;margin: 0 5px 0 0;padding: 2px 8px;text-decoration: none;}
+.scrActive{border:none;color: #000;font-size: 1.1em;font-weight: bold;padding: 2px 6px;}
+a.scrPage:hover{-moz-background-clip: border;-moz-background-inline-policy: continuous;-moz-background-origin: padding;background: #3666d4;border-color: #2b55af;color: #fff;text-decoration: none;}
